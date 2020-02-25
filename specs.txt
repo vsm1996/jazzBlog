@@ -1,0 +1,32 @@
+ig api
+
+cream bg / black or white font
+opening side by side / 50% view
+Single page for main view
+
+
+contact for consultation on blog
+Podcast pop up
+Different fonts based on blog post feel: Lacquer, proxima-nova, montserrat, simonette, playfair display (this one most likely)
+Album link, not overwhelm
+Actual instructions for user interaction
+Login system for posting
+
+About / contact / consultation page all the same
+Business liscence number in footer
+
+link hover style white or grey
+
+domain name
+
+website update link
+
+consultation bgc - cream
+blog bgc - white
+
+social media links , font awesome
+email subscription 
+
+Name used
+
+http://www.demetrialucas.com/dlblog/
