@@ -88,6 +88,11 @@ body {
 
 .blog-nav ul h1{
   font-size: 2rem;
+  color: #000;
+}
+
+.blog-nav ul h1:hover {
+  color: #5e5e5e;
 }
 
 .blog-nav li {
@@ -130,6 +135,11 @@ body {
 
 .consultation-nav ul h1{
   font-size: 2rem;
+  color: #000;
+}
+
+.consultation-nav ul h1:hover {
+  color: #5e5e5e;
 }
 
 .consultation-nav li {
